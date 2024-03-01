@@ -1,0 +1,305 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.header .menu ul li {
+    display: inline-block;
+    text-align: center;
+    /* padding-top: 15px; */
+    /* margin-top: -15px; */
+}
+
+.header .menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* padding: 9px; */
+    font-size: 12px;
+}
+
+.aaa {
+    color: orange !important;
+}
+
+.logo img {
+    width: 170px;
+}
+
+.heading {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 15px 0px;
+    font-weight: lighter;
+    font-size: 10px;
+}
+
+.bbb img {
+    width: 25px;
+    /* padding-top: 15px; */
+
+}
+
+.ccc img {
+    width: 28px;
+}
+
+
+.second {
+    background-image: url("./Rectangle\ 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content img {
+    width: 235px;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 2;
+    font-weight: 100;
+    font-weight: lighter;
+    padding-top: 80px;
+    padding-left: 50px
+}
+
+.content h1 {
+    padding-top: 15px;
+}
+
+.second .imgs img {
+    width: 220px;
+}
+
+.second .imgs {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.second {
+    display: flex;
+    gap: 230px;
+
+}
+
+.third {
+    background-image: url("./Rectangle\ 18220.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    gap: 140px;
+    padding-bottom: 160px;
+
+}
+
+
+.third .imggg img {
+    width: 190px;
+}
+
+.third .text {
+    color: rgb(216, 203, 203);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 76px;
+    padding-left: 55px;
+    line-height: 1.6;
+}
+
+.third .imggg {
+    padding-top: 101px;
+}
+
+.text h1 {
+    padding-bottom: 15px;
+}
+
+.imggg {
+    position: relative;
+}
+
+.onee {
+    position: absolute;
+    top: 135px;
+    left: -32px;
+}
+
+.twoo {
+    position: absolute;
+    right: -42px;
+    top: 246px;
+}
+
+.three {
+    position: absolute;
+    left: -40px;
+    bottom: 73px;
+}
+
+
+
+.booking {
+    background-image: url("./Vector\ 8.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -130px;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.images img {
+    width: 180px;
+}
+
+
+.textt {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 160px;
+}
+
+.textt p {
+    color: antiquewhite;
+}
+
+.on img {
+    width: 130px;
+}
+
+.tw img {
+    width: 130px;
+}
+
+.onlyHead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 13px;
+}
+
+.onlyImage {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.one1 img {
+    width: 150px;
+}
+
+.two2 img {
+    width: 150px;
+}
+
+.third3 img {
+    width: 150px;
+}
+
+
+.mainnnn{
+    background-image: url("./background-banner.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 140.2px 0;
+}
+.mainnnn h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    padding-left: 230px;
+    padding-bottom: 30px;
+}
+.mainnnn-in {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    background-position: center;
+    align-items: center;
+    width: 100%;
+}
+
+.circle img {
+    width: 10px;
+
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 40px;
+}
+
+.do {
+    margin-top: 50px;
+}
+
+.headd {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding-top: 20px;
+}
+
+.rectangle {
+    background-image: url("./Rectangle\ 2\ -\ Copy.png");
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}
+
+/* 
+@media only screen and (max-width: 600px) {
+   
+  } */
+
+
+.green img {
+    width: 100%;
+}
+
+.aaaaa {
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+    padding-left: 20px;
+}.green {
+    background-image: url("./Subtract\ \(4\).png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    text-align: center;
+    padding: 80px;
+    padding-top: 160px;
+    gap: 20px;
+}
+
+.green .one1:nth-child(even) {
+ position: relative;
+ top: 40px;
+}
+
+.owl-item.active.center {
+    margin-top: 60px;
+}
